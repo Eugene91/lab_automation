@@ -10,3 +10,5 @@ REQUIREMENTS:
 - pyvisa
 - libusb1
 - vncdotool
+
+OSA.py contains script for getting data from AQ6317B OPtical Spectrum Analyzer via GPIB-TC/IP interface.
